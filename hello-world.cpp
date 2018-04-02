@@ -1,6 +1,18 @@
 #include<iostream>
-#include "hello-world.h"
+//#include "hello-world.h"
 using namespace std;
 
+class QInt
+{
+private:
+  long int Bits[2];
+public:
+  QInt();
+  ~QInt();
+};
+
 int main()
-{cout<<"Hello world!"; return 0;}
+{
+  cout<<"Hello world!\n";
+  return 0;
+}
