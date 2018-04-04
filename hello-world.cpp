@@ -4,7 +4,7 @@
 #include<cstring>
 #include<cmath>
 using namespace std;
-
+//not
 class QInt
 {
 private:
