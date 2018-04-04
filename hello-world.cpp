@@ -24,6 +24,7 @@ int main()
     value = value + (a[length-i-1]-'0')*(int)pow(10,i);
   }
   cout<<value <<endl;
+
   
   return 0;
 }
