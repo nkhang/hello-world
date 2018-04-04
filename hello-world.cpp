@@ -1,13 +1,8 @@
 #include<iostream>
-<<<<<<< HEAD
 #include<cstdint>
 #include<limits.h>
 #include<cstring>
 #include<cmath>
-//#include "hello-world.h"
-=======
-#include "hello-world.h"
->>>>>>> origin
 using namespace std;
 
 class QInt
