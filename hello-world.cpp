@@ -16,13 +16,7 @@ public:
 
 int main()
 {
-  int64_t value = 0;
-  string a="123456";
-  int length= a.length();
-  for(int i = 0; i < length; i++)
-  {
-    value = value + (a[length-i-1]-'0')*(int)pow(10,i);
-  }
-  cout<<value <<endl;
+  string a = "170141183460469231731687303715884105727";
+  cout<<a.length()<<endl;
   return 0;
 }
